@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>S3 | CloudZA</title>
+	<atom:link href="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/category/s3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cloudza.io</link>
+	<description>Solutions Architecture and DevOps engineering</description>
+	<lastBuildDate>Fri, 10 Jun 2022 09:30:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/wp-content/uploads/2022/07/favicon.png</url>
+	<title>S3 | CloudZA</title>
+	<link>https://cloudza.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Storing Data with Amazon S3</title>
+		<link>https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/storing-data-with-amazon-s3-glacier-instant-retrieval/</link>
+		
+		<dc:creator><![CDATA[Cz1]]></dc:creator>
+		<pubDate>Fri, 21 Jan 2022 11:29:25 +0000</pubDate>
+				<category><![CDATA[AWS]]></category>
+		<category><![CDATA[S3]]></category>
+		<guid isPermaLink="false">https://cloudza.co.za/?p=628</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/storing-data-with-amazon-s3-glacier-instant-retrieval/">Storing Data with Amazon S3</a> appeared first on <a rel="nofollow" href="https://cloudza.io">CloudZA</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="et_pb_section et_pb_section_0 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0 et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_3_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner">Storing Data with Amazon S3</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+			</div>
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1 et_hover_enabled et_section_specialty" >
+				
+				
+				
+				<div class="et_pb_row et_pb_gutters2">
+					<div class="et_pb_column et_pb_column_3_4 et_pb_column_2   et_pb_specialty_column  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_row_inner et_pb_row_inner_0 et_hover_enabled">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_inner et_pb_column_inner_0 et_hover_enabled et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0">
+				
+				
+				<span class="et_pb_image_wrap "></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><blockquote>
+<p><span style="font-weight: 400;">Amazon Simple Storage Service (Amazon S3) is one of the best object storage solutions in the industry at the moment. It offers a plethora of different S3 Storage Classes to choose from, and each one serves a different purpose that is generally based on the frequency of access to the data. </span></p>
+</blockquote></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p><span style="font-weight: 400;">Archival and historical data would use different storage classes when compared to a solution that needs data storage for a static website. S3 objects are kept in S3 buckets, and S3 Storage Classes are configured at the object-level, meaning that you can have objects in the same bucket that belong to different S3 Storage Classes. S3 Lifecycle Policies can be used to automatically move objects between different storage classes.</span></p>
+<p><span style="font-weight: 400;">Generally there is a retrieval fee for data being accessed, and the cost of this retrieval fee normally becomes more expensive when moving from the frequently accessed storage classes to the archival storage classes. Alternatively, the cost of the storage itself is generally cheaper when using the archival storage classes as opposed to the other classes, however the retrieval fees can be higher.</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Recently, AWS launched the new Amazon S3 Glacier Instant Retrieval. With this new S3 Storage Class, customers get the best of both worlds when it comes to choosing the most appropriate and compliant storage class while still having millisecond access to data. S3 Glacier was a great storage class for archival and historical data, however the retrieval costs and retrieval time were higher than the other S3 Storage Classes (with the exception of Amazon Glacier Deep Archive). </span></p>
+<p><span style="font-weight: 400;"></span></p>
+<h2><b>S3 Glacier Instant Retrieval </b></h2>
+<p><span style="font-weight: 400;">S3 Glacier Instant Retrieval is the newest storage class, this offers the lowest cost for archival storage while still allowing for instantaneous retrieval times. S3 Glacier Instant Retrieval is now the fastest way to access archival data with S3, giving customers an archival solution with the same high throughput and milliseconds access as the S3 Standard and S3 Standard-IA storage classes. </span></p>
+<p><span style="font-weight: 400;">This is a revitalized way of storing archival data, giving customers the ability to store archival data using a lower cost storage class, while still having the ability to access that data within seconds. S3 Glacier Instant Retrieval works well with archival data that is accessed more than quarterly, and is ideal for storing data like medical images, genomic sequences, satellite images, news media assets, user-generated content and archival data that requires milliseconds access.</span></p>
+<p><span style="font-weight: 400;"></span></p>
+<h2><b>S3 Glacier Flexible Retrieval </b></h2>
+<p><span style="font-weight: 400;">This S3 Storage class was previously known as Amazon S3 Glacier. It provides a lower cost than storage classes such as S3 Standard, S3 Intelligent-Tiering and the S3 Infrequent Access classes. The data is only available within minutes to hours, making this storage class the best solution for backups, disaster recovery, offsite data storage, and for when data occasionally needs to be retrieved within minutes. S3 Glacier Flexible Retrieval works best for data that does not require immediate access, but still needs the flexibility of it’s retrieval options for backups and disaster recovery, with free bulk retrievals. </span></p>
+<p><span style="font-weight: 400;"></span></p>
+<h2><b>S3 Glacier Deep Archive</b></h2>
+<p><span style="font-weight: 400;">This S3 storage class is ideal for data only accessed once or twice a year, offering long-term retention and data preservation for archival data. S3 Glacier Deep Archive offers the lowest storage costs compared to all the other storage options, however doesn’t allow for millisecond access to the archival data. This S3 storage class is the ideal storage solution for use in highly-regulated industries with strict compliance requirements, such as financial services, healthcare, and public sectors, that need to retain their data for 7—10 years or longer. The retrieval time for S3 Glacier can be up to 12 hours.</span></p>
+<p><span style="font-weight: 400;"></span></p>
+<h2><b>S3 Standard</b></h2>
+<p><span style="font-weight: 400;">Amazon S3 Standard can be seen as the general purpose storage classes, it offers high durability and high throughput all with low latency. An important thing to note is that Amazon S3 Standard, your data is available instantaneously, i.e. within milliseconds. This make is the storage class for many different use cases such as, cloud-based applications, static and dynamic websites, big data analytics,  content distribution, mobile applications and gaming applications. </span></p>
+<p><span style="font-weight: 400;"></span></p>
+<h2><b>S3 Intelligent-Tiering</b></h2>
+<p><span style="font-weight: 400;">Amazon S3 also has a storage class for data with unknown usage or changing access patterns, where you may not know exactly how frequently the data will be accessed and therefore aren’t sure which S3 Storage Class to choose. Amazon S3 Intelligent-Tiering  intelligently moves objects between different storage classes based on how frequently the object is being accessed. S3 Intelligent-Tiering will choose the more cost-effective storage class for your data, without impacting performance, accumulating retrieval fees and ultimately reducing operational overhead. This storage class is best used with data with unknown usage patterns, if you know the usage patterns or if they become predictable, you can find more cost savings by choosing another storage class more appropriate for your storage needs.</span></p>
+<p><span style="font-weight: 400;"></span></p>
+<h2><b>Amazon S3 Standard-Infrequent Access (S3 Standard-IA) and Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA)</b></h2>
+<p><span style="font-weight: 400;">These S3 Storage Classes are for data accessed less frequently, but still require the high durability, high throughput, and low latency of S3 Standard. These classes offer a lower per GB storage price and retrieval cost to S3 Standard.  The main differentiator with S3 One Zone-IA is that the data is stored in one Available Zone (AZ), as opposed to the other storage classes that store the data in at least three different AZs to increase durability. Amazon S3 One Zone-IA, offers a lower cost of storage compared to S3 Standard-IA, generally reducing costs by 20%. These S3 storage classes are ideal for copies of on-premise backups and disaster recovery files.</span></p>
+<p>&nbsp;</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><blockquote>
+<p>Contact CloudZA to discuss how we can assist you in modernizing your storage and backup solution.</p>
+</blockquote></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+			</div>
+			</div>
+				
+				
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_3    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_image et_pb_image_1">
+				
+				
+				<span class="et_pb_image_wrap "><img width="487" height="761" src="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/wp-content/uploads/2022/05/professional-services.jpg" alt="" title="professional-services" class="wp-image-1852" /></span>
+			</div>
+			</div>
+				</div>
+				
+			</div><div class="et_pb_with_border et_pb_section et_pb_section_2 et_hover_enabled et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_1 et_pb_equal_columns et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>Related Articles</h2></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="/faq/" data-icon="&#x23;">Return to Resource Center</a>
+			</div>
+			</div>
+				
+				
+			</div><div class="et_pb_row et_pb_row_2 et_pb_equal_columns et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_blog_0 et_pb_blog_grid_wrapper et_pb_bg_layout_light">
+					<div class="et_pb_blog_grid clearfix ">
+					
+					
+					<div class="et_pb_ajax_pagination_container">
+						<div class="et_pb_salvattore_content" data-columns>
+			<article id="post-1692" class="et_pb_post clearfix et_pb_blog_item_0_0 post-1692 post type-post status-publish format-standard has-post-thumbnail hentry category-hybrid-cloud">
+
+				<div class="et_pb_image_container"><a href="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/benefits-of-a-hybrid-cloud-solution/" class="entry-featured-image-url"><img src="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/wp-content/uploads/2022/04/flexara.png" alt="Benefits of a Hybrid Cloud solution" class="" srcset="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/wp-content/uploads/2022/04/flexara.png 479w, https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/wp-content/uploads/2022/04/flexara.png 480w " sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div>
+														<h2 class="entry-title"><a href="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/benefits-of-a-hybrid-cloud-solution/">Benefits of a Hybrid Cloud solution</a></h2>
+				
+					<p class="post-meta"><span class="published">Apr 6, 2022</span></p><div class="post-content"><div class="post-content-inner"><p>Hybrid cloud solutions allows organizations to benefit from the security advantages of your on-premise environment as well as the flexibility of the public cloud.  Hybrid Cloud - The best pathway to becoming Cloud-Native Many companies have the goal of becoming...</p>
+</div></div>			
+			</article>
+				
+			<article id="post-666" class="et_pb_post clearfix et_pb_blog_item_0_1 post-666 post type-post status-publish format-standard has-post-thumbnail hentry category-3cx">
+
+				<div class="et_pb_image_container"><a href="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/cloudza-partnership-with-3cx/" class="entry-featured-image-url"><img src="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/wp-content/uploads/2022/01/management-console-dashboard-v18.png" alt="CloudZA partnership with 3CX" class="" srcset="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/wp-content/uploads/2022/01/management-console-dashboard-v18.png 479w, https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/wp-content/uploads/2022/01/management-console-dashboard-v18.png 480w " sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div>
+														<h2 class="entry-title"><a href="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/cloudza-partnership-with-3cx/">CloudZA partnership with 3CX</a></h2>
+				
+					<p class="post-meta"><span class="published">Jan 27, 2022</span></p><div class="post-content"><div class="post-content-inner"><p>CloudZA are now official partners with 3CX. By being partnered with 3CX, CloudZA is able to modernize your business communication system with a PBX that was designed with the remote workforce in mind.</p>
+</div></div>			
+			</article>
+				
+			<article id="post-628" class="et_pb_post clearfix et_pb_blog_item_0_2 post-628 post type-post status-publish format-standard has-post-thumbnail hentry category-aws category-s3">
+
+				<div class="et_pb_image_container"><a href="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/storing-data-with-amazon-s3-glacier-instant-retrieval/" class="entry-featured-image-url"><img src="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/wp-content/uploads/2022/01/ice-final-1-1.jpg" alt="Storing Data with Amazon S3" class="" srcset="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/wp-content/uploads/2022/01/ice-final-1-1.jpg 479w, https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/wp-content/uploads/2022/01/ice-final-1-1.jpg 480w " sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div>
+														<h2 class="entry-title"><a href="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/storing-data-with-amazon-s3-glacier-instant-retrieval/">Storing Data with Amazon S3</a></h2>
+				
+					<p class="post-meta"><span class="published">Jan 21, 2022</span></p><div class="post-content"><div class="post-content-inner"><p>Amazon Simple Storage Service (Amazon S3) is one of the best object storage solutions in the industry at the moment. It offers a plethora of different S3 Storage Classes to choose from, and each one serves a different purpose that is generally based on the frequency...</p>
+</div></div>			
+			</article>
+				</div>
+					</div>
+					</div> 
+				</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div>
+<p>The post <a rel="nofollow" href="https://cloudza-site-webcopy.s3.af-south-1.amazonaws.com/storing-data-with-amazon-s3-glacier-instant-retrieval/">Storing Data with Amazon S3</a> appeared first on <a rel="nofollow" href="https://cloudza.io">CloudZA</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

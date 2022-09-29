@@ -1,0 +1,1816 @@
+Uri: https://cloudza.io/
+File Name: C:\Downloaded Web Sites\cloudza.io\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/about-us/
+File Name: C:\Downloaded Web Sites\cloudza.io\about-us\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/author/clou-admin/
+File Name: C:\Downloaded Web Sites\cloudza.io\author\clou-admin\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/author/clou-admin/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\author\clou-admin\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/aws/
+File Name: C:\Downloaded Web Sites\cloudza.io\aws\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/benefits-of-a-hybrid-cloud-solution/
+File Name: C:\Downloaded Web Sites\cloudza.io\benefits-of-a-hybrid-cloud-solution\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/benefits-of-a-hybrid-cloud-solution/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\benefits-of-a-hybrid-cloud-solution\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/c2c-backups/
+File Name: C:\Downloaded Web Sites\cloudza.io\c2c-backups\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/category/3cx/
+File Name: C:\Downloaded Web Sites\cloudza.io\category\3cx\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/category/3cx/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\category\3cx\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/category/aws/
+File Name: C:\Downloaded Web Sites\cloudza.io\category\aws\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/category/aws/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\category\aws\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/category/hybrid-cloud/
+File Name: C:\Downloaded Web Sites\cloudza.io\category\hybrid-cloud\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/category/hybrid-cloud/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\category\hybrid-cloud\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/category/moodle/
+File Name: C:\Downloaded Web Sites\cloudza.io\category\moodle\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/category/moodle/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\category\moodle\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/category/s3/
+File Name: C:\Downloaded Web Sites\cloudza.io\category\s3\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/category/s3/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\category\s3\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/category/terraform/
+File Name: C:\Downloaded Web Sites\cloudza.io\category\terraform\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/category/terraform/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\category\terraform\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/cloud-pbx/
+File Name: C:\Downloaded Web Sites\cloudza.io\cloud-pbx\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/cloud-video-editing/
+File Name: C:\Downloaded Web Sites\cloudza.io\cloud-video-editing\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/cloud/
+File Name: C:\Downloaded Web Sites\cloudza.io\cloud\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/cloudza-partnership-with-3cx/
+File Name: C:\Downloaded Web Sites\cloudza.io\cloudza-partnership-with-3cx\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/cloudza-partnership-with-3cx/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\cloudza-partnership-with-3cx\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/comments/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\comments\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/connectivity/
+File Name: C:\Downloaded Web Sites\cloudza.io\connectivity\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/data-engineering/
+File Name: C:\Downloaded Web Sites\cloudza.io\data-engineering\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/faq/
+File Name: C:\Downloaded Web Sites\cloudza.io\faq\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/get-in-touch/
+File Name: C:\Downloaded Web Sites\cloudza.io\get-in-touch\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/lms/
+File Name: C:\Downloaded Web Sites\cloudza.io\lms\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/migrations/
+File Name: C:\Downloaded Web Sites\cloudza.io\migrations\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/moodle-on-aws/
+File Name: C:\Downloaded Web Sites\cloudza.io\moodle-on-aws\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/moodle-on-aws/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\moodle-on-aws\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/professional-services/
+File Name: C:\Downloaded Web Sites\cloudza.io\professional-services\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/security/
+File Name: C:\Downloaded Web Sites\cloudza.io\security\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/storing-data-with-amazon-s3-glacier-instant-retrieval/
+File Name: C:\Downloaded Web Sites\cloudza.io\storing-data-with-amazon-s3-glacier-instant-retrieval\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/storing-data-with-amazon-s3-glacier-instant-retrieval/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\storing-data-with-amazon-s3-glacier-instant-retrieval\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/terraform-explained/
+File Name: C:\Downloaded Web Sites\cloudza.io\terraform-explained\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/terraform-explained/feed/
+File Name: C:\Downloaded Web Sites\cloudza.io\terraform-explained\feed\index.htm
+Content Type: text/xml
+
+Uri: https://cloudza.io/veeam/
+File Name: C:\Downloaded Web Sites\cloudza.io\veeam\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/workspace/
+File Name: C:\Downloaded Web Sites\cloudza.io\workspace\index.htm
+Content Type: text/html
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/1dlz3vmw/68asu.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\1dlz3vmw\68asu.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/1f9b05kp/4laol.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\1f9b05kp\4laol.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/1nlwfhrr/5tk65.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\1nlwfhrr\5tk65.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/21mgo2jb/5xijt.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\21mgo2jb\5xijt.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/2ccq4rog/5tx4r.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\2ccq4rog\5tx4r.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/30znn6wa/5rc9j.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\30znn6wa\5rc9j.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/30zrkg1w/7t8ei.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\30zrkg1w\7t8ei.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/6lst85fy/7t8ej.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\6lst85fy\7t8ej.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/7j66qte9/7t8eh.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\7j66qte9\7t8eh.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/7j9n55ck/4o2ca.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\7j9n55ck\4o2ca.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/7kushbn8/67a0z.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\7kushbn8\67a0z.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/7n95gcue/5tk65.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\7n95gcue\5tk65.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/7z0uqnlc/4laol.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\7z0uqnlc\4laol.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/861z5f5q/7t8eh.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\861z5f5q\7t8eh.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/87vechoy/5xijt.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\87vechoy\5xijt.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/8xpp8ufm/5r55x.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\8xpp8ufm\5r55x.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/9hrd35qn/5tx4r.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\9hrd35qn\5tx4r.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/9k69bx26/4lzon.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\9k69bx26\4lzon.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/d76xk6ww/5rc9j.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\d76xk6ww\5rc9j.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/e41wtu2v/4laol.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\e41wtu2v\4laol.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/esbbvly0/68asu.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\esbbvly0\68asu.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/eunuenis/4lzom.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\eunuenis\4lzom.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/frncx4z2/67xux.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\frncx4z2\67xux.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/gm7azvq/4ldh1.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\gm7azvq\4ldh1.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/go5bq81/67a0z.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\go5bq81\67a0z.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/k2pxgpek/7t8eg.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\k2pxgpek\7t8eg.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/k9b0poey/6fdzi.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\k9b0poey\6fdzi.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/kcapllu1/6hkd5.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\kcapllu1\6hkd5.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/kcw97el4/7t8ei.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\kcw97el4\7t8ei.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/keok258l/4lzoo.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\keok258l\4lzoo.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/kloq011k/6fdzi.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\kloq011k\6fdzi.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/kxennpv4/5qgs3.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\kxennpv4\5qgs3.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/lybfh2bq/67xux.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\lybfh2bq\67xux.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/mmmq6oeb/4o2ca.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\mmmq6oeb\4o2ca.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/qh85gpim/6hkd5.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\qh85gpim\6hkd5.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/qt2pig6c/7t8el.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\qt2pig6c\7t8el.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/qts20r95/7t8el.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\qts20r95\7t8el.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/que31bc8/7t8ej.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\que31bc8\7t8ej.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/cache/wpfc-minified/qxqp3qw9/4laol.css
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\cache\wpfc-minified\qxqp3qw9\4laol.css
+Content Type: text/css
+
+Uri: https://cloudza.io/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.9.9
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\plugins\wp-smushit\app\assets\js\smush-lazy-load.min.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\plugins\wpforms-lite\assets\images\submit-spin.svg
+Content Type: image/svg+xml
+
+Uri: https://cloudza.io/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\plugins\wpforms-lite\assets\images\times-solid-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cloudza.io/wp-content/plugins/wpforms-lite/assets/js/utils.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\plugins\wpforms-lite\assets\js\utils.min.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/plugins/wpforms-lite/assets/js/wpforms.min.js?ver=1.7.6
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\plugins\wpforms-lite\assets\js\wpforms.min.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.19.5
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\plugins\wpforms-lite\assets\lib\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\plugins\wpforms-lite\assets\lib\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\plugins\wpforms-lite\assets\lib\punycode.min.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-brands-400.ttf
+Content Type: x-font/ttf
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-brands-400.woff
+Content Type: x-font/woff
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-regular-400.ttf
+Content Type: x-font/ttf
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-regular-400.woff
+Content Type: x-font/woff
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-solid-900.ttf
+Content Type: x-font/ttf
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-solid-900.woff
+Content Type: x-font/woff
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot?
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\all\modules-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.svg
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.svg
+Content Type: image/svg+xml
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.ttf
+Content Type: x-font/ttf
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.woff
+Content Type: x-font/woff
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.eot
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\base\modules.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.eot?
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\base\modules-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.svg
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\base\modules.svg
+Content Type: image/svg+xml
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\base\modules.ttf
+Content Type: x-font/ttf
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\base\modules.woff
+Content Type: x-font/woff
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/social/modules.eot
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\social\modules.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/social/modules.eot?
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\social\modules-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/social/modules.svg
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\social\modules.svg
+Content Type: image/svg+xml
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/social/modules.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\social\modules.ttf
+Content Type: x-font/ttf
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/fonts/modules/social/modules.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\fonts\modules\social\modules.woff
+Content Type: x-font/woff
+
+Uri: https://cloudza.io/wp-content/themes/Divi/core/admin/js/common.js?ver=4.14.4
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\core\admin\js\common.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/easypiechart.js?ver=4.14.4
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\includes\builder\feature\dynamic-assets\assets\js\easypiechart.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/hashchange.js?ver=4.14.4
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\includes\builder\feature\dynamic-assets\assets\js\hashchange.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.14.4
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\includes\builder\feature\dynamic-assets\assets\js\jquery.fitvids.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.14.4
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\includes\builder\feature\dynamic-assets\assets\js\jquery.mobile.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/salvattore.js?ver=4.14.4
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\includes\builder\feature\dynamic-assets\assets\js\salvattore.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/themes/Divi/includes/builder/styles/images/preloader.gif
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\includes\builder\styles\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://cloudza.io/wp-content/themes/Divi/js/scripts.min.js?ver=4.14.4
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\themes\Divi\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-content/uploads/2021/12/architectural-guidance-cloudza-480x480.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2021\12\architectural-guidance-cloudza-480x480.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2021/12/architectural-guidance-cloudza-980x980.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2021\12\architectural-guidance-cloudza-980x980.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2021/12/architectural-guidance-cloudza.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2021\12\architectural-guidance-cloudza.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2021/12/CloudZA-Banner.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2021\12\CloudZA-Banner.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2021/12/cloudza-professional-services.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2021\12\cloudza-professional-services.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2021/12/enablement-cloudza-480x480.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2021\12\enablement-cloudza-480x480.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2021/12/enablement-cloudza-980x980.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2021\12\enablement-cloudza-980x980.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2021/12/enablement-cloudza.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2021\12\enablement-cloudza.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2021/12/Facebook-cloud.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2021\12\Facebook-cloud.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2021/12/Git.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2021\12\Git.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2021/12/LinkedIn.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2021\12\LinkedIn.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/01/CloudzaLogo-1.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\01\CloudzaLogo-1.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/01/ice-final-1-1.jpg
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\01\ice-final-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cloudza.io/wp-content/uploads/2022/01/management-console-dashboard-v18.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\01\management-console-dashboard-v18.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/01/terraform-iac.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\01\terraform-iac.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/01/TerraformVariabelsfinal.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\01\TerraformVariabelsfinal.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/02/Amazon-Web-Services-Logo-White.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\02\Amazon-Web-Services-Logo-White.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/02/Arch_AWS-Direct-Connect_64@5x.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\02\Arch_AWS-Direct-Connect_64@5x.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/02/Arch_AWS-Snowball_64@5x.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\02\Arch_AWS-Snowball_64@5x.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/02/DR.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\02\DR.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/3CX-1.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\3CX-1.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/3CX-communications.webp
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\3CX-communications.webp
+Content Type: image/webp
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/3CX-CRM-Integration.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\3CX-CRM-Integration.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/3CX-video-conferencing.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\3CX-video-conferencing.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/3CX.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\3CX.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Adobe.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Adobe.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Amazon-Web-Services-1.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Amazon-Web-Services-1.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Amazon-Web-Services.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Amazon-Web-Services.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Arch_AWS-Glue_64.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Arch_AWS-Glue_64.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/aws-cloudwatch.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\aws-cloudwatch.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/aws-dynamodb.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\aws-dynamodb.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/aws-ec2.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\aws-ec2.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/aws-lambda.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\aws-lambda.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/aws-rds.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\aws-rds.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/aws-s3.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\aws-s3.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/aws-vpc.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\aws-vpc.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/bg-img-cloudservices-1.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\bg-img-cloudservices-1.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/cloud-solutions.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\cloud-solutions.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/cloudza-architectural-guidance.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\cloudza-architectural-guidance.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Cloudza-cloud-computing.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Cloudza-cloud-computing.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/cloudza-enablement.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\cloudza-enablement.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/cloudza-migration.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\cloudza-migration.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/cloudza-portfolio-assessment.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\cloudza-portfolio-assessment.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Cloudza-professional-services-1.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Cloudza-professional-services-1.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/CloudZA-value-proposition.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\CloudZA-value-proposition.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/CloudzaBlocks5.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\CloudzaBlocks5.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/CloudzaBlocks7.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\CloudzaBlocks7.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/CloudzaBlocks8-1.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\CloudzaBlocks8-1.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/CloudzaBlocks9.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\CloudzaBlocks9.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/CloudzaHomeBanner.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\CloudzaHomeBanner.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/cloudzamission.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\cloudzamission.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/cloudzanetwork.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\cloudzanetwork.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/cloudzavision.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\cloudzavision.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/collaboration.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\collaboration.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/crypto-bg-02b-1-5.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\crypto-bg-02b-1-5.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/DataWarehouse.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\DataWarehouse.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/device-sync.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\device-sync.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Elasticity-and-Scalability.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Elasticity-and-Scalability.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Fortinet-1.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Fortinet-1.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Fortinet.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Fortinet.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/gmail.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\gmail.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/google-calendar.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\google-calendar.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/google-docs.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\google-docs.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/google-drive.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\google-drive.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/google-meet.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\google-meet.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Google-Workspace-products.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Google-Workspace-products.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Google.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Google.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Huawei.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Huawei.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/increased-productivity.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\increased-productivity.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/microsoft.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\microsoft.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Ofiice365.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Ofiice365.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/remote-working.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\remote-working.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/salesforce.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\salesforce.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/sap.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\sap.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/veeam-logo.webp
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\veeam-logo.webp
+Content Type: image/webp
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Veeam-platform.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Veeam-platform.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/Veeam.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\Veeam.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/03/vmware.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\03\vmware.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/04/CloudMoodle.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\04\CloudMoodle.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/04/flexara.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\04\flexara.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/04/flexare2.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\04\flexare2.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/04/MoodleDashboard.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\04\MoodleDashboard.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-content/uploads/2022/05/about-cloud-za-1.jpg
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\05\about-cloud-za-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cloudza.io/wp-content/uploads/2022/05/professional-services.jpg
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\05\professional-services.jpg
+Content Type: image/jpeg
+
+Uri: https://cloudza.io/wp-content/uploads/2022/07/favicon.png
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-content\uploads\2022\07\favicon.png
+Content Type: image/png
+
+Uri: https://cloudza.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-includes\js\mediaelement\mediaelement-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://cloudza.io/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-includes\js\mediaelement\wp-mediaelement.min.js
+Content Type: application/javascript
+
+Uri: https://cloudza.io/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://cloudza.io/wp-json/
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-1
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Faws%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-9
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fbenefits-of-a-hybrid-cloud-solution%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fc2c-backups%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-7
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fcloud%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fcloud-pbx%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fcloud-video-editing%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fcloudza-partnership-with-3cx%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-19
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fconnectivity%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-13
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fdata-engineering%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Ffaq%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-15
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fget-in-touch%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Flms%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-5
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fmigrations%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-3
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fmoodle-on-aws%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-17
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fprofessional-services%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fsecurity%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-11
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fstoring-data-with-amazon-s3-glacier-instant-retrieval%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fterraform-explained%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-21
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fveeam%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fcloudza.io%2Fworkspace%2F
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/categories/11
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\categories\11
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/categories/16
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\categories\16
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/categories/18
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\categories\18
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/categories/6
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\categories\6
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/categories/7
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\categories\7
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/categories/8
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\categories\8
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/1032
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\1032
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/1041
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\1041
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/1094
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\1094
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/1119
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\1119
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/1331
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\1331
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/1457
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\1457
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/1524
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\1524
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/1676
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\1676
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/801
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\801
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/823
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\823
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/865
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\865
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/871
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\871
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/882
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\882
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/903
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\903
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/957
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\957
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/967
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\967
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/pages/969
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\pages\969
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/posts/1692
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\posts\1692
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/posts/1756
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\posts\1756
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/posts/557
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\posts\557
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/posts/628
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\posts\628
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/posts/666
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\posts\666
+Content Type: application/json
+
+Uri: https://cloudza.io/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\cloudza.io\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://cloudza.io/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\cloudza.io\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX8.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXo.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXw.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXo.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXw.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX8.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXo.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXw.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX8.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXo.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXw.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX8.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXo.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXw.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXo.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXw.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX8.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXo.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXw.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX8.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXo.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXw.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX8.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXo.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXw.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDc.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDI.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDQ.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7g.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7j.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7j.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7l.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7l.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18E.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18I.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18I.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18Q.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18E.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18I.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18I.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18Q.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18E.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18I.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18I.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18Q.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18E.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18I.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18I.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18Q.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18E.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18I.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18I.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18Q.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdo.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdo.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdr.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdu.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdu.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRdo.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRdo.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRdr.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRdu.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRdu.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdo.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdo.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdr.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdu.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdu.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdo.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdo.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdr.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdu.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdu.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdo.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdo.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdr.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdu.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdu.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxQ.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxT.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxW.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxW.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzYw.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzYw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzZg.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzZQ.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzZQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzYw.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzYw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZg.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZQ.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGIVzYw.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffEDBGIVzYw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGIVzZg.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffEDBGIVzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGIVzZQ.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffEDBGIVzZQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGIVzYw.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffGjEGIVzYw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGIVzZg.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffGjEGIVzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGIVzZQ.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffGjEGIVzZQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzYw.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzYw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZg.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZQ.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPecZTIAOhVxoMyOr9n_E7fdM3mCA.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPecZTIAOhVxoMyOr9n_E7fdM3mCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPecZTIAOhVxoMyOr9n_E7fdM3mCw.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPecZTIAOhVxoMyOr9n_E7fdM3mCw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPecZTIAOhVxoMyOr9n_E7fdM3mDQ.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPecZTIAOhVxoMyOr9n_E7fdM3mDQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5ya.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5ya.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5yc.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5yc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5yZ.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5yZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5ya.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5ya.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5yc.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5yc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5yZ.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5yZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5ya.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5ya.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yc.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yZ.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5ya.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5ya.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5yc.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5yc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5yZ.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5yZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3mo5qofd.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3mo5qofd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3mo5qofe.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3mo5qofe.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3mo5qofY.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3mo5qofY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5qofd.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5qofd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5qofe.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5qofe.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5qofY.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5qofY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7Gs5qofd.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7Gs5qofd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7Gs5qofe.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7Gs5qofe.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7Gs5qofY.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7Gs5qofY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGw5qofd.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGw5qofd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGw5qofe.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGw5qofe.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGw5qofY.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGw5qofY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2w5qofd.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2w5qofd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2w5qofe.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2w5qofe.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2w5qofY.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2w5qofY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGs5qofd.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGs5qofd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGs5qofe.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGs5qofe.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGs5qofY.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGs5qofY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWw5qofd.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWw5qofd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWw5qofe.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWw5qofe.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWw5qofY.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWw5qofY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXms5qofd.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXms5qofd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXms5qofe.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXms5qofe.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXms5qofY.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXms5qofY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmw5qofd.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmw5qofd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmw5qofe.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmw5qofe.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmw5qofY.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmw5qofY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBiEJoA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBiEJoA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBiEJow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBiEJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBiEJpg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBiEJpg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBiEJoA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBiEJoA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBiEJow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBiEJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBiEJpg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBiEJpg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBiEJoA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBiEJoA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBiEJow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBiEJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBiEJpg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBiEJpg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBiEJoA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBiEJoA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBiEJow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBiEJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBiEJpg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBiEJpg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiEJoA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiEJoA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiEJow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiEJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiEJpg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiEJpg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBiEJoA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBiEJoA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBiEJow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBiEJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBiEJpg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBiEJpg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBiEJoA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBiEJoA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBiEJow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBiEJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBiEJpg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBiEJpg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBiEJoA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBiEJoA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBiEJow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBiEJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBiEJpg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBiEJpg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBiEJoA.woff
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBiEJoA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBiEJow.ttf
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBiEJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBiEJpg.woff2
+File Name: C:\Downloaded Web Sites\cloudza.io\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBiEJpg.woff2
+Content Type: font/woff2
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-218091975-1
+File Name: C:\Downloaded Web Sites\cloudza.io\gtag\js
+Content Type: application/javascript
+
